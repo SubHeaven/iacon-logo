@@ -1,0 +1,25 @@
+{
+    "name": "iacon-logo",
+    "version": "0.1.3",
+    "description": "A simple npm cli/tool project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "iacon-logo": "./cli.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SubHeaven/iacon-logo.git"
+    },
+    "author": {
+        "name": "SubHeaven",
+        "email": "subheaven.paulo@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SubHeaven/iacon-logo/issues"
+    },
+    "homepage": "https://github.com/SubHeaven/iacon-logo#readme"
+}
